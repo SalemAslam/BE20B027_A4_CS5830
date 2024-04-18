@@ -1,0 +1,13 @@
+download_data:
+  year: 2023
+  start_idx: 13240
+  end_idx: 13250
+
+prepare:
+  path: "/Users/Salem Aslam/Documents/3. Academics/#Sem8/Lab/A4/Downloaded_Data"
+
+process:
+  path: "/Users/Salem Aslam/Documents/3. Academics/#Sem8/Lab/A4/Downloaded_Data"
+
+evaluate:
+  name_csv: "99999904237"
